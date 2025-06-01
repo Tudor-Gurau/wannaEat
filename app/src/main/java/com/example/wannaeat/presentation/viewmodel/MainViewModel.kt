@@ -1,6 +1,5 @@
 package com.example.wannaeat.presentation.viewmodel
 
-import android.content.SharedPreferences
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
@@ -8,9 +7,7 @@ import com.example.wannaeat.data.models.RecipeEntry
 import com.example.wannaeat.domain.RecipeRepository
 import com.example.wannaeat.presentation.uistates.MainScreenUiState
 import com.example.wannaeat.util.Resource
-import com.google.gson.Gson
 import dagger.hilt.android.lifecycle.HiltViewModel
-import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

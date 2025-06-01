@@ -1,7 +1,5 @@
 package com.example.wannaeat.data.models
 
-import java.util.UUID
-
 class RecipeEntry(
     var favorite: Boolean = false,
     var id: String,
