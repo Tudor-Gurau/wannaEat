@@ -24,6 +24,7 @@ Parsing function-call JSON responses from OpenAI and mapping them into Kotlin mo
 ### 🔮 Future Plans
 - Image placement for each recipe (a result from another request or changing the existing schema to return a proper URL)
 - Searchbar history
+- Filters for the favorites screen (breakfast, dinner, vegan etc.)
 - Meal plan based on a set of needs
 - Unit test and UI tests
 - Dark mode
