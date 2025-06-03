@@ -19,7 +19,7 @@ WannaEat is a mobile app that generates random, tailored recipes based on user p
 Parsing function-call JSON responses from OpenAI and mapping them into Kotlin models reliably was non-trivial and required a custom schema-based approach.
 
 ### 📸 Video walkthrough / Links
-- https://we.tl/t-H8IvQ2jvnN   (please ping me if the link has expired)
+- https://we.tl/t-DlSIxLus1m   (please ping me if the link has expired)
 
 ### 🔮 Future Plans
 - Image placement for each recipe (a result from another request or changing the existing schema to return a proper URL)
